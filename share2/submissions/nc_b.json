@@ -1,0 +1,30 @@
+{
+ "name": "nc_b",
+ "source": "builds\\nc_b\\main.py",
+ "scan": "OK",
+ "entry_point": "_enh_agent",
+ "self_play_seed": 990001,
+ "status": [
+  "DONE",
+  "DONE"
+ ],
+ "money": [
+  97212.0,
+  97212.0
+ ],
+ "step_ms_median": 2.84,
+ "step_ms_max": 257.8,
+ "overage_used_s": [
+  0.0,
+  0.0
+ ],
+ "game_s": 17.9,
+ "archive": "submissions\\nc_b.tar.gz",
+ "files": [
+  "main.py",
+  "LICENSE.txt",
+  "NOTICE.txt"
+ ],
+ "archive_sha256": "7d302255ac873d15f37fbcc1d427e9a9c5b1cf8dad90d36c4958e3f1028faa6d",
+ "main_sha256": "ced5b98aa7c86ea11dc11471ca94c15c7eb80774ae98414c3f8ac7fea6c01f3f"
+}

@@ -1,0 +1,29 @@
+{
+ "name": "v57_combo_b",
+ "source": "builds\\v57_combo_b\\main.py",
+ "scan": "OK",
+ "entry_point": "_enh_agent",
+ "self_play_seed": 990001,
+ "status": [
+  "DONE",
+  "DONE"
+ ],
+ "money": [
+  100503.0,
+  100503.0
+ ],
+ "step_ms_median": 0.86,
+ "step_ms_max": 13.1,
+ "overage_used_s": [
+  0.0,
+  0.0
+ ],
+ "game_s": 6.9,
+ "archive": "submissions\\v57_combo_b.tar.gz",
+ "files": [
+  "main.py",
+  "NOTICE.txt"
+ ],
+ "archive_sha256": "989a9fe0fdc70637d1b43f5cadd092f29a7d5fb114a99ed9ab1ea898c9ed264c",
+ "main_sha256": "3f3b5a4eeeee260b86e8ceca392a8cdb5e4bd1b624f4e4542c10e617edb17390"
+}

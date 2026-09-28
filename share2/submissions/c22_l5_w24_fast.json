@@ -1,0 +1,32 @@
+{
+ "name": "c22_l5_w24_fast",
+ "source": "builds\\c22_l5_w24_fast\\main.py",
+ "scan": "OK",
+ "entry_point": "_enh_agent",
+ "self_play_seed": 990001,
+ "status": [
+  "DONE",
+  "DONE"
+ ],
+ "money": [
+  98455.0,
+  98455.0
+ ],
+ "step_ms_median": 1.23,
+ "step_ms_max": 11.5,
+ "overage_used_s": [
+  0.0,
+  0.0
+ ],
+ "game_s": 7.6,
+ "archive": "submissions\\c22_l5_w24_fast.tar.gz",
+ "files": [
+  "main.py",
+  "NOTICE.txt",
+  "agent_base.py",
+  "__pycache__/agent_base.cpython-311.pyc",
+  "__pycache__/agent_base.cpython-312.pyc"
+ ],
+ "archive_sha256": "6ed3e16acf606827812984e4cdb5d193f3b17d3a404d66a40fdb39dccddb5318",
+ "main_sha256": "d3022dd5fefd6709b4c827a746f598fe09a95150cf1b0396fbeb0f54a8aa4da6"
+}

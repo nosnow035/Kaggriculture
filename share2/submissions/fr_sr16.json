@@ -1,0 +1,29 @@
+{
+ "name": "fr_sr16",
+ "source": "builds\\fr_sr16\\main.py",
+ "scan": "OK",
+ "entry_point": "_enh_agent",
+ "self_play_seed": 990001,
+ "status": [
+  "DONE",
+  "DONE"
+ ],
+ "money": [
+  99859.0,
+  99859.0
+ ],
+ "step_ms_median": 1.09,
+ "step_ms_max": 64.6,
+ "overage_used_s": [
+  0.0,
+  0.0
+ ],
+ "game_s": 7.9,
+ "archive": "submissions\\fr_sr16.tar.gz",
+ "files": [
+  "main.py",
+  "NOTICE.txt"
+ ],
+ "archive_sha256": "ed93959b34f56f13985f1aef6e725d48aed134bfc9b6ef21d76d4663e820ea42",
+ "main_sha256": "f1711cfed64b30dff9fcfc3560314ce2ac296af9d5d8fb6be5f9cc4098ef5a20"
+}

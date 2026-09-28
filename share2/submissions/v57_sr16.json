@@ -1,0 +1,29 @@
+{
+ "name": "v57_sr16",
+ "source": "builds\\v57_sr16\\main.py",
+ "scan": "OK",
+ "entry_point": "_enh_agent",
+ "self_play_seed": 990001,
+ "status": [
+  "DONE",
+  "DONE"
+ ],
+ "money": [
+  100503.0,
+  100503.0
+ ],
+ "step_ms_median": 1.58,
+ "step_ms_max": 16.6,
+ "overage_used_s": [
+  0.0,
+  0.0
+ ],
+ "game_s": 12.1,
+ "archive": "submissions\\v57_sr16.tar.gz",
+ "files": [
+  "main.py",
+  "NOTICE.txt"
+ ],
+ "archive_sha256": "858793ed2a40f9a449819ec4190dab181eb1b7d10f2f0695e26cfbd293bf8bb6",
+ "main_sha256": "95366cd9f3d2b2f3f80fbeb996d453299e52ba5e122dddb96914d8eec83ea5c3"
+}

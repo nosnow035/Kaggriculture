@@ -1,0 +1,32 @@
+{
+ "name": "fr_sr16_fast",
+ "source": "builds\\fr_sr16_fast\\main.py",
+ "scan": "OK",
+ "entry_point": "_enh_agent",
+ "self_play_seed": 990001,
+ "status": [
+  "DONE",
+  "DONE"
+ ],
+ "money": [
+  99859.0,
+  99859.0
+ ],
+ "step_ms_median": 0.98,
+ "step_ms_max": 60.6,
+ "overage_used_s": [
+  0.0,
+  0.0
+ ],
+ "game_s": 6.9,
+ "archive": "submissions\\fr_sr16_fast.tar.gz",
+ "files": [
+  "main.py",
+  "NOTICE.txt",
+  "agent_base.py",
+  "__pycache__/agent_base.cpython-311.pyc",
+  "__pycache__/agent_base.cpython-312.pyc"
+ ],
+ "archive_sha256": "b2eeaff0d1957060e1ea7c137762cd06c6458062fba11141495ad3047305d057",
+ "main_sha256": "d3022dd5fefd6709b4c827a746f598fe09a95150cf1b0396fbeb0f54a8aa4da6"
+}

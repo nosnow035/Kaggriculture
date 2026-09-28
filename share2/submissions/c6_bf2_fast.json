@@ -1,0 +1,32 @@
+{
+ "name": "c6_bf2_fast",
+ "source": "builds\\c6_bf2_fast\\main.py",
+ "scan": "OK",
+ "entry_point": "_enh_agent",
+ "self_play_seed": 990001,
+ "status": [
+  "DONE",
+  "DONE"
+ ],
+ "money": [
+  98520.0,
+  98520.0
+ ],
+ "step_ms_median": 2.21,
+ "step_ms_max": 23.9,
+ "overage_used_s": [
+  0.0,
+  0.0
+ ],
+ "game_s": 15.3,
+ "archive": "submissions\\c6_bf2_fast.tar.gz",
+ "files": [
+  "main.py",
+  "NOTICE.txt",
+  "agent_base.py",
+  "__pycache__/agent_base.cpython-311.pyc",
+  "__pycache__/agent_base.cpython-312.pyc"
+ ],
+ "archive_sha256": "1d42793dcb25f949287620ca5d7971e58a0045960a939619ef0f048379030cbe",
+ "main_sha256": "51a6775dab99833dfa8f2bfecc1bf2bda885ffb19037b328fdd8b805db9a9b9e"
+}

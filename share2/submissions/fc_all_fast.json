@@ -1,0 +1,32 @@
+{
+ "name": "fc_all_fast",
+ "source": "builds\\fc_all_fast\\main.py",
+ "scan": "OK",
+ "entry_point": "_enh_agent",
+ "self_play_seed": 990001,
+ "status": [
+  "DONE",
+  "DONE"
+ ],
+ "money": [
+  99382.0,
+  99382.0
+ ],
+ "step_ms_median": 1.03,
+ "step_ms_max": 60.9,
+ "overage_used_s": [
+  0.0,
+  0.0
+ ],
+ "game_s": 7.0,
+ "archive": "submissions\\fc_all_fast.tar.gz",
+ "files": [
+  "main.py",
+  "NOTICE.txt",
+  "agent_base.py",
+  "__pycache__/agent_base.cpython-311.pyc",
+  "__pycache__/agent_base.cpython-312.pyc"
+ ],
+ "archive_sha256": "f3bfcbf2c5e5e48bf01348263533fba534f27a44edfc7bce94acc57c7de2aae6",
+ "main_sha256": "d3022dd5fefd6709b4c827a746f598fe09a95150cf1b0396fbeb0f54a8aa4da6"
+}

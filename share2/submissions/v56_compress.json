@@ -1,0 +1,29 @@
+{
+ "name": "v56_compress",
+ "source": "builds\\v56_compress\\main.py",
+ "scan": "OK",
+ "entry_point": "_enh_agent",
+ "self_play_seed": 990001,
+ "status": [
+  "DONE",
+  "DONE"
+ ],
+ "money": [
+  100271.0,
+  100271.0
+ ],
+ "step_ms_median": 1.87,
+ "step_ms_max": 26.8,
+ "overage_used_s": [
+  0.0,
+  0.0
+ ],
+ "game_s": 16.5,
+ "archive": "submissions\\v56_compress.tar.gz",
+ "files": [
+  "main.py",
+  "NOTICE.txt"
+ ],
+ "archive_sha256": "ebdb74803d275af7138ee7099afa898dcda16b4efb702ace4fd696a800a350bb",
+ "main_sha256": "f40c544de1778326ca4459dd1f870d6a61c088cf62c211c6ee98f61936f99aba"
+}

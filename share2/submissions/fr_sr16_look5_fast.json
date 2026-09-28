@@ -1,0 +1,32 @@
+{
+ "name": "fr_sr16_look5_fast",
+ "source": "builds\\fr_sr16_look5_fast\\main.py",
+ "scan": "OK",
+ "entry_point": "_enh_agent",
+ "self_play_seed": 990001,
+ "status": [
+  "DONE",
+  "DONE"
+ ],
+ "money": [
+  99637.0,
+  99637.0
+ ],
+ "step_ms_median": 1.53,
+ "step_ms_max": 101.4,
+ "overage_used_s": [
+  0.0,
+  0.0
+ ],
+ "game_s": 10.9,
+ "archive": "submissions\\fr_sr16_look5_fast.tar.gz",
+ "files": [
+  "main.py",
+  "NOTICE.txt",
+  "agent_base.py",
+  "__pycache__/agent_base.cpython-311.pyc",
+  "__pycache__/agent_base.cpython-312.pyc"
+ ],
+ "archive_sha256": "2e4c076880fab2485848897ae6c536d6183185cdd6fe7ee9c17e2b26573f394d",
+ "main_sha256": "d3022dd5fefd6709b4c827a746f598fe09a95150cf1b0396fbeb0f54a8aa4da6"
+}
